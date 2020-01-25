@@ -10,4 +10,4 @@ This is a React Template built on top of npx create-react-app. This template inc
 * node sass
 plus tons more. 
 
-### Installation
+## Installation
