@@ -11,3 +11,4 @@ To begin open your console of choice and navigate to your desktop.
 
 1) run `git clone https://github.com/Lilkgb/React-Template`
 2) navigate to the new react-template folder by running `cd react-template`
+3) run `npm install` or `npm i` to install all needed dependencies
