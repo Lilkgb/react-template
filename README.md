@@ -28,7 +28,7 @@ REACT_APP_FIREBASE_MESSAGING_SENDER_ID = "xxxx"
 `
 8) paste into `.env` file
 9) replace all `x's` with information you recieve from https://www.firebase.com
-10) uncomment line 2 and line 5 in `react-template/src/actions/index.js` too activate firebase in your project
+10) uncomment line 2 and line 5 in `react-template/src/actions/index.js` to activate firebase in your project
 
 ## Questions
 
@@ -38,5 +38,5 @@ If you have any questions or concerns please email me at rmcleandev@gmail.com
 
 *This Software is Licensed under the MIT License.*
 
-Copyright (c) 2019 **_Ryan McLean_**
+Copyright (c) 2020 **_Ryan McLean_**
 
