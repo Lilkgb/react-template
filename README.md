@@ -15,7 +15,7 @@ To begin open your console of choice and navigate to your desktop.
 4) depending your text editor run the command to open the files. I use VSC so it would be `code .`
 5) run `npm run start` when you are ready to start a development server
 
-#### If you want to use firebase the continue below
+#### If you want to use firebase then continue below
 
 6) run `touch .env`
 7) copy this `
