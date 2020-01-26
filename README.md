@@ -25,5 +25,6 @@ REACT_APP_FIREBASE_DATABASE_URL = "https://xxxx.firebaseio.com"
 REACT_APP_FIREBASE_PROJECT_ID = "xxxx"
 REACT_APP_FIREBASE_STORAGE_BUCKET = "xxxx.appspot.com"
 REACT_APP_FIREBASE_MESSAGING_SENDER_ID = "xxxx"
-` and replace with information you recieve from firebase
+`
 8) paste into `.env` file
+9) replace all `x` with information you recieve from https://www.firebase.com
